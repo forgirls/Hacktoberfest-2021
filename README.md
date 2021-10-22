@@ -5,6 +5,6 @@
 
 ## Contatos:
 
-Ialy Sousa - <a href="https://github.com/ialysousa">Github </a>
-Karen Lorhana - <a href="https://github.com/karenlorhana"> Github </a>
+Ialy Sousa - <a href="https://github.com/ialysousa">Github </a> <br>
+Karen Lorhana - <a href="https://github.com/karenlorhana"> Github </a> <br>
 Lilian Teixeira - <a href="https://github.com/lilianhteixeira"> Github </a>
